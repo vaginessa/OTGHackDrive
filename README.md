@@ -3,3 +3,7 @@ OTG Hack Drive is a HID , Works as a Keyboard &amp; Mouse on the go. Usually use
 
 # Ref
 <a href="http://otghackdrive.dishantrathi.tk">OTG Hack Drive</a>
+
+# Payloads 
+
+<a href="https://github.com/dishantrathi/OTGHackDrive/tree/master/Payloads">Payloads</a>
